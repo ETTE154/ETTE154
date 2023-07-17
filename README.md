@@ -16,13 +16,10 @@
 
 ![전채욱의 GitHub 통계](https://github-readme-stats.vercel.app/api?username=ETTE154&show_icons=true&theme=radical)
 
-### 👀 방문자 수:
+### 👨‍💻 주요 프로젝트:
 
-![Visitor Count](https://profile-counter.glitch.me/{ETTE154}/count.svg)
-
-### ⌛ 코딩 활동 시간 분석:
-
-[![Wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=ETTE154)](https://github.com/anuraghazra/github-readme-stats)
+[![GitHub Repo stars](https://img.shields.io/github/stars/ETTE154/BDI_TimeSeries_TFT?style=social)](https://github.com/ETTE154/BDI_TimeSeries_TFT)
+[![GitHub forks](https://img.shields.io/github/forks/ETTE154/BDI_TimeSeries_TFT?style=social)](https://github.com/ETTE154/BDI_TimeSeries_TFT)
 
 ### 🏅 GitHub 뱃지:
 
