@@ -2,7 +2,7 @@
 
 저는 AI를 활용한 소프트웨어 개발을 공부 하고 있습니다.
 
-- 🌱 현재 AI와 소프트웨어 개발에 더 깊게 관심을 가지고 있습니다.
+- 🌱 현재 AI와 소프트웨어 개발, 그리고 Langchain에 대해 더 깊게 관심을 가지고 있습니다.
 - 💬 파이썬, AI, 소프트웨어 개발에 관한 질문은 언제든지 환영입니다.
 - 📫 연락처: a01025648934@gmail.com
 
@@ -15,3 +15,16 @@
 ### 📈 GitHub 통계:
 
 ![전채욱의 GitHub 통계](https://github-readme-stats.vercel.app/api?username=ETTE154&show_icons=true&theme=radical)
+
+### 👀 방문자 수:
+
+![Visitor Count](https://profile-counter.glitch.me/{ETTE154}/count.svg)
+
+### ⌛ 코딩 활동 시간 분석:
+
+[![Wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=ETTE154)](https://github.com/anuraghazra/github-readme-stats)
+
+### 🏅 GitHub 뱃지:
+
+![GitHub followers](https://img.shields.io/github/followers/ETTE154?style=social)
+![GitHub stars](https://img.shields.io/github/stars/ETTE154?style=social)
