@@ -14,6 +14,4 @@
 
 ### 📈 GitHub 통계:
 
-![Your Name's github stats](https://github-readme-stats.vercel.app/api?username=ETTE154&show_icons=true&theme=radical)
-
-
+![전채욱의 GitHub 통계](https://github-readme-stats.vercel.app/api?username=ETTE154&show_icons=true&theme=radical)
