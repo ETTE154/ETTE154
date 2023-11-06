@@ -8,7 +8,7 @@
 
 ### 🛠️ 사용 언어와 도구:
 
-![Python](https://img.shields.io/badge/-Python-333333?style=flat&logo=python) - Python
+![Python](https://img.shields.io/badge/-Python-333333?style=flat&logo=python)
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ETTE154&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 
@@ -25,3 +25,7 @@
 
 ![GitHub followers](https://img.shields.io/github/followers/ETTE154?style=social)
 ![GitHub stars](https://img.shields.io/github/stars/ETTE154?style=social)
+
+### 포트폴리오 :
+
+![Notion](https://brick-stargazer-477.notion.site/AI-680f35569a354fba8552f40b1a375a18?pvs=4)
