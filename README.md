@@ -8,7 +8,7 @@
 
 ### 🛠️ 사용 언어와 도구:
 
-![Python](https://img.shields.io/badge/-Python-333333?style=flat&logo=python)
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 ![Dart](https://img.shields.io/badge/Dart-0175C2?style=for-the-badge&logo=dart&logoColor=white)
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ETTE154&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
